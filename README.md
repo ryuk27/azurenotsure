@@ -46,9 +46,11 @@ As part of the final project, the following tasks were completed in a live Azure
 ### Task 3: Enable Self-Service Password Reset (SSPR)
 
 1. Navigated to **Azure Active Directory → Password Reset → Properties**.  
-2. Chose **Selected** under “Self-service password reset enabled”.  
+2. Chose **Selected** under “Self-service password reset enabled”.
+![Auth](images/authmethods.png)  
 3. Selected the group **DevSupport** for SSPR.  
 4. Clicked **Save** to apply changes.
+![Reset](images/passreset.png)
 ---
 
 ### Task 4: Test SSPR as Standard User

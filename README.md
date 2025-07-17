@@ -31,13 +31,16 @@ As part of the final project, the following tasks were completed in a live Azure
 
 ### Task 2: Create Group and Add Members
 
-1. Navigated to **Azure Active Directory → Groups → + New group**.  
+1. Navigated to **Azure Active Directory → Groups → + New group**.
+![Navigation](images/groupnav.png)
 2. Filled group details:
    - Group type: Security  
    - Name: DevSupport  
-   - Description: Development Support 
+   - Description: Development Support
 3. Chose **Assigned** membership type and created group.  
+![New Group](images/newgroup.png)
 4. Opened the group → **Members → + Add members**.  
+![Add Members](images/addmembers.png)
 ---
 
 ### Task 3: Enable Self-Service Password Reset (SSPR)

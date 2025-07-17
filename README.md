@@ -57,7 +57,8 @@ As part of the final project, the following tasks were completed in a live Azure
 
 1. Opened browser in **incognito mode**, went to:  
    [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com)  
-2. Entered user email, verified identity (via email/SMS).  
+2. Entered user email, verified identity (via email/SMS).
+![Test](images/testreset.png)
 3. Reset the password successfully.  
 4. Logged in using new password at [https://portal.office.com](https://portal.office.com).
 ---
@@ -65,11 +66,13 @@ As part of the final project, the following tasks were completed in a live Azure
 ### Task 5: Enable and Configure Multi-Factor Authentication (MFA)
 
 1. Navigated to **Azure Active Directory → Users → Per-user MFA**.  
-2. Opened the legacy MFA portal and searched for the user.  
+2. Opened the legacy MFA portal and searched for the user. 
+![Navigate](images/Navigate.png) 
 3. Clicked **Enable** to turn on MFA.  
 4. Upon next login, user was prompted to register:
    - Microsoft Authenticator  
    - SMS  
    - Phone call
+![Register](images/Register.png)
 
 ---

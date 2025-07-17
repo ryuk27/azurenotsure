@@ -21,10 +21,12 @@ As part of the final project, the following tasks were completed in a live Azure
 ### Task 1: Add a New User
 
 1.	Sign in to the [Azure portal](https://portal.azure.com) with your login credentials. Navigate to **Azure Active Directory**. Select **Roles and administrators** under the **Manage** blade.
-![Sign In] (images/Sign In.png)
+![Sign In](images/signin.png)
 2.	To create a user, check your role. If your role is listed as **Global Administrator**, you can manage all aspects of Azure AD:
    - As Global Admin
+![Global Admin](images/globaladmin.png)
    - New User (John, Dave, Jeff)
+![New User](images/createuser.png)
 ---
 
 ### Task 2: Create Group and Add Members
